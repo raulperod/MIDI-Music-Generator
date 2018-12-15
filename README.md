@@ -28,12 +28,21 @@ Una vez que hemos entrenado el modelo, guardamos el modelo y lo utilizamos para 
 
 ## Resultados
 
-<center> <audio src="/readme_files/2-n.mid" controls preload></audio> </center>
-<center> <audio src="/readme_files/4-n.mid" controls preload></audio> </center>
-<center> <audio src="/readme_files/5-n.mid" controls preload></audio> </center>
-<center> <audio src="/readme_files/7-n.mid" controls preload></audio> </center>
-<center> <audio src="/readme_files/9-n.mid" controls preload></audio> </center>
-<center> <audio src="/readme_files/10-n.mid" controls preload></audio> </center>
+Después de entrenar los modelos, probé con los conjuntos de datos que baje de las paginas y empecé a probar, me di cuenta que a partir de 100 epoch en adelante no había cambios en la generación de música. Las canciones generadas por el modelo, en su mayoría no tiene una gran coherencia, solo unas cuantas tiene un buen ritmo. Dejare abajo algunos recortes de canciones que se generaron.
+
+Utilizando una ventana de 20:
+
+> [cancion1](./readme_files/2-n.mid)
+> [cancion2](./readme_files/4-n.mid)
+> [cancion3](./readme_files/5-n.mid)
+> [cancion4](./readme_files/7-n.mid)
+> [cancion5](./readme_files/9-n.mid)
+> [cancion6](./readme_files/9-n.mid)
+
+Utilizando una ventana de 10:
+
+> [cancion1](./readme_files/2-nn.mid)
+> [cancion2](./readme_files/7-nn.mid)
 
 ## Requisitos
 
@@ -159,3 +168,7 @@ optional arguments:
                         --prime_file (predeterminado: data/midi)
 
 ```
+
+## Agradecimientos
+
+El proyecto fue realizado por [brannondorsey](https://github.com/brannondorsey). Tambien agradecer a Daniel de [ACARUS](http://acarus.uson.mx/) ya que creo un entorno virtual donde pudiera realizar el entrenamiento en el Ocotillo, lo cual hizo que fuera mas rapido.
