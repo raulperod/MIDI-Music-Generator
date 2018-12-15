@@ -40,7 +40,7 @@ Para poder ejecutar necesitas tener instaladas las siguientes librerías:
 > pip install pretty-midi
 ``` 
 
-## Obtencion de canciones MIDI
+## Obtención de canciones MIDI
 
 Para musica de videojuegos encontré la siguiente pagina que es [khinsider](https://www.khinsider.com) donde tiene una sección de musica MIDI de videojuegos el cual es [esta](https://www.khinsider.com/midi). Cuenta con musica de videojuegos de consolas como gameboy, N64, Atari, Playstation, etc.
 
@@ -56,7 +56,7 @@ python train.py --data_dir data/midi
 
 Esto utilizara las funciones predeterminadas y entrenara con las canciones de la ruta dada. Para mas configuraciones ir a la sección de comandos.
 
-## Generacion de canciones MIDI
+## Generación de canciones MIDI
 
 Una vez entrenado el modelo, ya puedes generar canciones.
 
