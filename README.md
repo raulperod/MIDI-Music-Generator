@@ -32,21 +32,21 @@ Después de entrenar los modelos, probé con los conjuntos de datos que baje de 
 
 Utilizando una ventana de 20:
 
-```
-> [cancion1](./readme_files/2-n.mid)
-> [cancion2](./readme_files/4-n.mid)
-> [cancion3](./readme_files/5-n.mid)
-> [cancion4](./readme_files/7-n.mid)
-> [cancion5](./readme_files/9-n.mid)
-> [cancion6](./readme_files/9-n.mid)
-```
+
+* [cancion1](./readme_files/2-n.mid)
+* [cancion2](./readme_files/4-n.mid)
+* [cancion3](./readme_files/5-n.mid)
+* [cancion4](./readme_files/7-n.mid)
+* [cancion5](./readme_files/9-n.mid)
+* [cancion6](./readme_files/9-n.mid)
+
 
 Utilizando una ventana de 10:
 
-```
-> [cancion1](./readme_files/2-nn.mid)
-> [cancion2](./readme_files/7-nn.mid)
-```
+
+* [cancion1](./readme_files/2-nn.mid)
+* [cancion2](./readme_files/7-nn.mid)
+
 
 ## Requisitos
 
