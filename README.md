@@ -28,7 +28,12 @@ Una vez que hemos entrenado el modelo, guardamos el modelo y lo utilizamos para 
 
 ## Resultados
 
-
+<center> <audio src="/readme_files/2-n.mid" controls preload></audio> </center>
+<center> <audio src="/readme_files/4-n.mid" controls preload></audio> </center>
+<center> <audio src="/readme_files/5-n.mid" controls preload></audio> </center>
+<center> <audio src="/readme_files/7-n.mid" controls preload></audio> </center>
+<center> <audio src="/readme_files/9-n.mid" controls preload></audio> </center>
+<center> <audio src="/readme_files/10-n.mid" controls preload></audio> </center>
 
 ## Requisitos
 
