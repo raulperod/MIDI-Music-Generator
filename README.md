@@ -62,7 +62,7 @@ Para musica de anime me encontré un post en reddit donde encontré las paginas 
 
 ## Entrenamiento
 
-Primero creamos un carpeta con archivos MIDI que te gustaría entrenar, por ejemplo en la ruta [./data/midi](./data/midi). Una vez que hecho esto utilizar las siguientes comandos:
+Primero creamos un carpeta con archivos MIDI que te gustaría entrenar, por ejemplo en la ruta [./data/midi](./data/midi). Una vez que hecho esto utilizar el siguiente comando:
 
 ```bash
 python train.py --data_dir data/midi
