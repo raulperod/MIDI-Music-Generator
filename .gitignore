@@ -1,0 +1,6 @@
+venv
+experiments/
+data/
+!experiments/.gitkeep
+__pycache__/
+*.pyc
